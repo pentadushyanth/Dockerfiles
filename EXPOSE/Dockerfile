@@ -1,2 +1,2 @@
-FROM cmd:v1
+FROM cmd:latest
 EXPOSE 80/tcp
